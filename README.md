@@ -157,9 +157,8 @@ your-repo-name/
 
 ## 🧠 Powered By
 
-- [ChromaDB](https://www.trychroma.com/)
-- [Ollama](https://ollama.com/)
-- [React](https://react.dev/)
+- Hochschule Albstadt Sigmaringen.
+
 
 ---
 
