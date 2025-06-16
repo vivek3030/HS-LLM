@@ -1,0 +1,11 @@
+chromadb>=0.4.15
+langchain>=0.2.0
+langchain-community>=0.0.12
+langchain-ollama>=0.1.0
+pydantic>=2.0
+pydantic-settings>=2.0
+langdetect>=1.0.9
+requests>=2.31.0
+unstructured>=0.12.3  # For UnstructuredExcelLoader
+python-docx>=1.1.0     # Required by Docx2txtLoader
+PyMuPDF>=1.23.7        # Often used by PDF loaders (fallback)
